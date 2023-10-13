@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Financial Expert | Coding Enthusiast
 
-<!--
-**haleyilmazz/haleyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Financial Expertise:
+- Accounting Manager with a knack for compliance
+- Tax returns and social security wizard
+- Meticulous accounts reconciliation
 
-Here are some ideas to get you started:
+💻 Coding Passion:
+- JavaScript (React, Node.js)
+- SQL & Database Management
+- HTML5 & CSS3
+- Git Version Control
+- npm & yarn Package Managers
+- Crafting responsive web experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Let's connect: [LinkedIn veya diğer sosyal medya profillerinizi ekleyin]
