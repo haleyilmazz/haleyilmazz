@@ -13,5 +13,3 @@
 - npm & yarn Package Managers
 - Crafting responsive web experiences
 
-
-📫 Let's connect: [LinkedIn veya diğer sosyal medya profillerinizi ekleyin]
